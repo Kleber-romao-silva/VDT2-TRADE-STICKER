@@ -3,7 +3,7 @@ Documentation        Login tests
 
 Library    Browser
 
-Resource    ${EXECDIR}/resources/main.resource
+Resource    ../resources/main.resource
 
 Test Setup       Start Test
 Test Teardown    Finish Test
